@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Bank_Library
+namespace BankLibrary
 {
     public class SavingsAccount : Account
     {
